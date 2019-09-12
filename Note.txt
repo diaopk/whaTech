@@ -1,0 +1,2 @@
+- eclipse: run Analyser.class, SurveyReceiver.class and FakeClient.class
+- to get access to the db, attributes may need to change in the DatabaseHandler.class
